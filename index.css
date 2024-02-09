@@ -1,0 +1,11 @@
+.container{
+    display: grid;
+    background-color: burlywood;
+}
+
+.container div{
+    width: 100px;
+    padding: 5px;
+    font-size: 50px;
+    color: gray;
+}
